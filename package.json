@@ -1,0 +1,20 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "Estudo de javascript, estudo de classes e orientaçao a objetos",
+  "main": "orientObject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardozv/jsOrientObject.git"
+  },
+  "author": "ricardozv",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ricardozv/jsOrientObject/issues"
+  },
+  "homepage": "https://github.com/ricardozv/jsOrientObject#readme"
+}

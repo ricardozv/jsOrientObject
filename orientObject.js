@@ -6,6 +6,21 @@ class Client  {
     adress;
 }
 
+class acount {
+    agencia;
+    saldo;
+
+    sacar(valor) {
+        if(acount.saldo >= valor)
+    }
+} 
+
+const conta = new acount();
+acount.saldo = 0;
+acount.agencia = 001;
+
+
+
 const clientOne = new Client();
 const clientTwo = new Client();
 
